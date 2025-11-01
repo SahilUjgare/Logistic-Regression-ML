@@ -57,6 +57,3 @@ The notebook includes:
 
 ---
 
-
-
-Would you like me to generate a matching **`requirements.txt`** file for this notebook as well (with the needed libraries)?
